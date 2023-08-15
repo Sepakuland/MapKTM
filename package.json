@@ -3,7 +3,7 @@
     "build": "babel ./Map -d ./dist"
   },
   "name": "map-ktm",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "dist/index.js",
   "devDependencies": {
     "@babel/cli": "^7.22.10",
